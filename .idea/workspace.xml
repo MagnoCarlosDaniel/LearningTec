@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6845e9f4-d5e1-4c58-be79-38cba5bf6953" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01.sintaxis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.variables.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.sintaxis.php" beforeDir="false" afterPath="$PROJECT_DIR$/01.sintaxis.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectId" id="1XX2NILpiuv9QK512QgpNjeSOz9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,8 +29,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="PHP Script.02.variables.php">
+    <configuration name="01.sintaxis.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/01.sintaxis.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="02.variables.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/02.variables.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.02.variables.php" />
+        <item itemvalue="PHP Script.01.sintaxis.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581178076590</updated>
-      <workItem from="1581178086706" duration="121000" />
+      <workItem from="1581178086706" duration="2427000" />
     </task>
     <servers />
   </component>
@@ -46,10 +65,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="634" y="354" key="NewPhpFileDialog" timestamp="1581178122504">
+    <state x="519" y="119" key="#01.sintaxis.php" timestamp="1581178422225">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="634" y="354" key="NewPhpFileDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1581178122504" />
+    <state x="519" y="119" key="#01.sintaxis.php/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1581178422225" />
+    <state x="380" y="85" key="#CLI_Interpreters" timestamp="1581178415550">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="85" key="#CLI_Interpreters/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1581178415550" />
+    <state x="507" y="21" key="#PHP" timestamp="1581178420222">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="21" key="#PHP/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1581178420222" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1581181636365">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1581181636365" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1581181636365">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1581181636365" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1581181636365">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1581181636365" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1581181636365">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1581181636365" />
+    <state x="634" y="354" key="NewPhpFileDialog" timestamp="1581178983267">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="354" key="NewPhpFileDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1581178983267" />
     <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1581178086706">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
